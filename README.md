@@ -1,1 +1,1 @@
-# Grouping-Algorithm
+# Easy Split
