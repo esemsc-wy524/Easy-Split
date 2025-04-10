@@ -1,0 +1,11 @@
+name: EasySplit
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10  # 可根据你的实际Python版本修改
+  - pandas
+  - requests
+  - pip
+  - pip:
+      - gradio
